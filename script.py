@@ -10,7 +10,7 @@ import requests
 username = "nrama1219@gmail.com"
 password = "Bujji@56789"
 user_bot_chatID = '809899065'
-account_name = "Anwar"
+account_name = "Ramu"
 accept_option = True
 start_time = 0                   #Stating time. Default 0. In 24 hour format
 end_time = 25                    #Stating time. Default 25. In 24 hour format

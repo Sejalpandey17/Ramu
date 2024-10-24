@@ -7,9 +7,9 @@ from datetime import datetime, timedelta
 import pytz
 import requests
 
-username = "anwarchegg05@gmail.com"
-password = "Author@05"
-user_bot_chatID = '1155462778'
+username = "nrama1219@gmail.com"
+password = "Bujji@56789"
+user_bot_chatID = '809899065'
 account_name = "Anwar"
 accept_option = True
 start_time = 0                   #Stating time. Default 0. In 24 hour format
@@ -19,7 +19,7 @@ end_time = 25                    #Stating time. Default 25. In 24 hour format
 
 
 flag_login = True
-user_bot_token = '8131045025:AAE9_BMb5i2pk479mubtilbSIUilPA25jWM'  #Chegg notifier bot
+user_bot_token = '7716677970:AAHMAtvPRlzr4Iu3Ob0cNF9LVQ1-YhOmrq0'  #Chegg notifier bot
 
 
 
